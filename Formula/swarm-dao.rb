@@ -1,8 +1,8 @@
 class SwarmDao < Formula
   desc "Multi-host AI agent governance CLI"
   homepage "https://github.com/guyghost/swarm-dao"
-  url "https://registry.npmjs.org/@guyghost/swarm-dao-cli/-/swarm-dao-cli-0.8.0.tgz"
-  sha256 "86ccbc71eeada2c9c8c552d2277336991cb8f48569e2728b61c1aba186511b34"
+  url "https://registry.npmjs.org/@guyghost/swarm-dao-cli/-/swarm-dao-cli-0.10.0.tgz"
+  sha256 "f83892af3eb64cb130456a772492477c021e36f3a71fe437228f1d7932d0429b"
   license "MIT"
 
   depends_on "node"
